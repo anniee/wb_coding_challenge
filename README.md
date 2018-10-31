@@ -1,5 +1,7 @@
 # WB Coding Challenge: Kong Karousel
 
+![alt text](assets/kongkarouselss.png "Kong Karousel")
+
 ### To run this project locally:
 
 1. Clone this repo
