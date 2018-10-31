@@ -3,8 +3,7 @@ body {
 }
 
 .kong-carousel-item-container {
-  align-items: flex-start !important;
-  display: flex !important;
+  display: flex;
 }
 
 .kong-carousel-item {
