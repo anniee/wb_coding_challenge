@@ -1,0 +1,6 @@
+// Example of JSON format expected from a real endpoint
+[{
+  "kong-subtitle": "Games & Apps",
+  "kong-subtext": "Kong: Skull Island VR",
+  "kong-img": "assets/kong1.jpeg"
+}]
